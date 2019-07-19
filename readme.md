@@ -8,15 +8,15 @@ Project Setup/ Install
 6. now clone the project here
 
 the strcture should be look like this
-   --> bin
-   --> include
-   --> lib
-   --> local
-   --> src
-       --> chat
-       -->chatApp
-       --> db.sqlite3
-       --> manage.py
+   --> bin <br />
+   --> include <br />
+   --> lib <br />
+   --> local <br />
+   --> src <br />
+       --> chat <br />
+       -->chatApp <br />
+       --> db.sqlite3 <br />
+       --> manage.py <br />
 
 
 7. docker run -p 6379:6379 -d redis:2.8
