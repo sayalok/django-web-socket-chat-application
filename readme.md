@@ -19,7 +19,7 @@ the strcture should be look like this
 --> local
 --> src
 	--> chat
-	-->chatApp
+	--> chatApp
 	--> db.sqlite3
 	--> manage.py
 </pre>
