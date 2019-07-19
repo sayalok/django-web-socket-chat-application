@@ -1,3 +1,7 @@
+This is a simple chat application using channels details desciptions link down below
+
+https://channels.readthedocs.io/en/latest/tutorial/
+
 Project Setup/ Install
 <ul>
 <li>1. mkdir ***folder_name*** </li>
