@@ -7,7 +7,7 @@ Project Setup/ Install
 <li> mkdir ***folder_name*** </li>
 <li> cd ***folder_name*** </li>
 <li> virtualenv . </li>
-<li> source bin/activate # to activate virtual environment</li>
+<li> source bin/activate  //to activate virtual environment</li>
 <li> pip3 install django</li>
 <li> now clone the project here</li>
 
